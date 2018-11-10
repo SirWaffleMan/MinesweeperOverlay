@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\abel\source\repos\minesweepersolver\minesweepersolver\main.cpp(175): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\abel\source\repos\minesweepersolver\minesweepersolver\main.cpp(176): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  MinesweeperSolver.vcxproj -> C:\Users\Abel\source\repos\MinesweeperSolver\Debug\MinesweeperSolver.exe
